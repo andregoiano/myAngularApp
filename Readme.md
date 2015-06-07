@@ -1,1 +1,1 @@
-Not much to see here, just me trying to create an Angular app.
+Not much to see here, just me trying to create my first AngularJS app.

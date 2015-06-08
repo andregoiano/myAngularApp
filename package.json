@@ -1,0 +1,19 @@
+{
+    "name": "myAngularApp",
+    "version": "0.1",
+    "description": "Little Angular Test",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andregoiano/myAngularApp.git"
+    },
+    "author": "André Bose do Amaral",
+    "license": "Creative Commons Attribution-ShareAlike 4.0 International License",
+    "bugs": {
+        "url": "https://github.com/andregoiano/myAngularApp/issues"
+    },
+    "homepage": "https://github.com/andregoiano/myAngularApp"
+}

@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /*.pdf$
+Sitemap: https://github.com/andregoiano/myAngularApp/sitemap.xml
